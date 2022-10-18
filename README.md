@@ -16,7 +16,7 @@ Before you proceed to deploy:
 
 2. For your build command, use either `npm install` or `yarn`. Render can be a little slow when deploying, and yarn tends to be faster than `npm install`, so for this project we recommend that you use `yarn`. If you want to learn more about the differences between the two package managers, feel free to read [this article](https://stackshare.io/stackups/npm-vs-yarn) that explains the differences.
 
-![Build command](buildcommand.png)
+![Build command](build-command.png)
 
 3. Set the environment variables so that the app can point to your database. You can also choose to upload your `.env` file.
 
