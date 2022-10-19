@@ -5,7 +5,7 @@
 Before you proceed to deploy:
 
 - Make sure you understand how to deploy monorepo projects on Render. Review the *Deploying a Monorepo* lesson and [Render's documentation on Monorepos](https://render.com/docs/monorepo-support).
-- Install and run the starter code on your local machine and make sure everything works.
+- Install and run the [starter code](https://github.com/Thinkful-Ed/starter-restaurant-reservation) on your local machine and make sure everything works.
 - Make sure your database is deployed on ElephantSQL. If you don't remember how to deploy your database, review the PostgreSQL module.
 
 ## Deploy the backend app on Render
